@@ -1,0 +1,27 @@
+.container {
+  background: #FFF;
+  border: 1px solid #D1D1D1;
+  box-shadow: 0 0 0 0.75pt #d1d1d1, 0 0 3pt 0.75pt #ccc;
+  margin: 10px auto;
+  padding-bottom: 132px;
+  width: 816px;
+}
+
+.container-body {
+  margin-left: 98px;
+  margin-right: 98px;
+  margin-top: 132px;
+}
+
+hr {
+  border-top: 1px #888;
+  border-left: 1px #888;
+  width: 90%;
+}
+
+ul.contacts,
+ul.skills,
+ul.sites {
+  list-style-type: none;
+  padding: 0;
+}
